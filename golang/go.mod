@@ -1,4 +1,4 @@
-module git.vomitblood.com/Vomitblood/mkbsd/golang
+module git.vomitblood.com/Vomitblood/mkbsd/mkbsd-go
 
 go 1.23.1
 
